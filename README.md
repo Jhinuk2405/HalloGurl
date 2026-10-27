@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HalloGurl
+- 👋 Hi, I’m @Oni
 - 👀 I’m interested in coding and Web development 
 - 🌱 I’m currently learning web development 
 - 📫 contact me via email
